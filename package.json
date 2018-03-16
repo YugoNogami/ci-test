@@ -1,0 +1,5 @@
+{
+  "name": "ci-test",
+  "private": true,
+  "dependencies": {}
+}
