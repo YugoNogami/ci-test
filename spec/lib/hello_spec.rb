@@ -28,7 +28,7 @@ RSpec.describe Hello do
         context '13歳以上の場合' do
             let(:age){ 13 }
             it '漢字で答えること' do
-                is_expected.to eq '僕はたろうです。'
+                is_expected.to eq 'ぼくはたろうです。'
             end
         end
     end
